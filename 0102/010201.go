@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("с новыми изменениями на ноуте Lesson 2 v1.0.7")
+	fmt.Println(" на ноуте обновил на еше раз маке Lesson 2 v1.0.6")
 }
